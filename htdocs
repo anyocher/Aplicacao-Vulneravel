@@ -1,0 +1,9 @@
+<script>start("/Users/anaclaraortizochner/portifolio/Aplicacao-Vulneravel/htdocs/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("assets","assets",1,64,"64 B",1757250044,"07/09/2025, 10:00:44");</script>
+<script>addRow("uploads","uploads",1,64,"64 B",1757250057,"07/09/2025, 10:00:57");</script>
+<script>addRow("config.php","config.php",0,389,"389 B",1757250257,"07/09/2025, 10:04:17");</script>
+<script>addRow("index.php","index.php",0,894,"894 B",1757250224,"07/09/2025, 10:03:44");</script>
+<script>addRow("sql_injection.php","sql_injection.php",0,1252,"1.2 kB",1757250276,"07/09/2025, 10:04:36");</script>
+<script>addRow("upload.php","upload.php",0,1439,"1.4 kB",1757250334,"07/09/2025, 10:05:34");</script>
+<script>addRow("xss.php","xss.php",0,1346,"1.3 kB",1757250300,"07/09/2025, 10:05:00");</script>
