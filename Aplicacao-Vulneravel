@@ -1,0 +1,6 @@
+<script>start("/Users/anaclaraortizochner/portifolio/Aplicacao-Vulneravel/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow(".git",".git",1,384,"384 B",1757249899,"07/09/2025, 09:58:19");</script>
+<script>addRow("htdocs","htdocs",1,288,"288 B",1757250057,"07/09/2025, 10:00:57");</script>
+<script>addRow("db.sql","db.sql",0,351,"351 B",1757250196,"07/09/2025, 10:03:16");</script>
+<script>addRow("README.md","README.md",0,1573,"1.5 kB",1757250198,"07/09/2025, 10:03:18");</script>
